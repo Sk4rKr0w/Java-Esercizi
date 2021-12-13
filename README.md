@@ -6,7 +6,8 @@ Si sottolinea che l'unico scopo di tale raccolta è quello di fornire materiale 
 
 # Come accedere al file "Esercizi"
 
-Se si sta provando di scaricare la cartella .rar "Esercizi.rar" quello che dovrà fare l'utente sarà cliccare su tale cartella e nella porzione centrale del proprio schermo cliccare il pulsante "Download". Nel caso in cui vi trovaste da mobile, vi basterà cliccare sull'icona "..." e successivamente cliccare il pulsante "Download"
+Se si sta provando di scaricare la cartella .rar "Esercizi.rar" quello che dovrà fare l'utente sarà cliccare su tale cartella e nella porzione centrale del proprio schermo cliccare il pulsante "Download". 
+Nel caso in cui vi trovaste da mobile, vi basterà cliccare sull'icona "..." e successivamente cliccare il pulsante "Download"
 
 # Come accedere al file "Soluzioni"
 
@@ -23,7 +24,7 @@ Ciò che dovrà fare l'utente sarà consultare il file PDF per vedere quale sar�
 
 # File nella cartella "Soluzioni"
 
-All'interno della cartella "Soluzioni" l'utente troverà 3 sotto-cartelle nominate "Soluzioni *" in cui il carattere "*" indica una lettera da A,B,C. Ciò è stato fatto per rendere il tutto più fluido agli occhi dell'utente. Aprendo una di queste sotto-cartelle troveremo i file soluzione dei nostri esercizi. All'interno di essi troverte:
+All'interno della cartella "Soluzioni" l'utente troverà 3 sotto-cartelle nominate "Soluzioni *" in cui il carattere "*" indica una lettera tra A,B,C. Ciò è stato fatto per rendere il tutto più fluido agli occhi dell'utente. Aprendo una di queste sotto-cartelle troveremo le cartelle-soluzione dei nostri esercizi. All'interno di quest'ultime troverete:
 
 - 1 Cartella "bin"
 - 1 Cartella "src"
