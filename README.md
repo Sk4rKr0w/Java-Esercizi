@@ -4,6 +4,10 @@ Questa raccolta contiene esercizi in linguaggio JAVA per coloro che vogliono ese
 I testi di riferimento di questi esercizi sono di appartenenza della facoltà di Ingegneria Informatica della Sapienza.
 Si sottolinea che l'unico scopo di tale raccolta è quello di fornire materiale utile a coloro che si vogliono esercitare con il linguaggio Java.
 
+# IMPORTANTE
+
+Per eseguire qualsiasi file .bat all'interno di questa raccolta, sarà necessario avere installato sul proprio computer una versione qualunque di Java. In caso contrario, non si avrà la possibilità di accedere ai server in questione. Per scaricare Java basterà cliccare sul seguente link https://www.java.com/it/download/manual.jsp che vi rimanderà alla pagina ufficiale dei download di Java.
+
 # Come accedere al file "Esercizi"
 
 Se si sta provando di scaricare la cartella .rar "Esercizi.rar" quello che dovrà fare l'utente sarà cliccare su tale cartella e nella porzione centrale del proprio schermo cliccare il pulsante "Download". 
