@@ -10,7 +10,7 @@ Per eseguire qualsiasi file .bat all'interno di questa raccolta, sarà necessari
 
 # Come accedere al file "Esercizi"
 
-Se si sta provando di scaricare la cartella .rar "Esercizi.rar" quello che dovrà fare l'utente sarà cliccare su tale cartella e nella porzione centrale del proprio schermo cliccare il pulsante "Download". 
+Se si sta cercando di scaricare la cartella .rar "Esercizi.rar", ciò che dovrà fare l'utente sarà cliccare su tale cartella e nella porzione centrale del proprio schermo cliccare il pulsante "Download". 
 Nel caso in cui vi trovaste da mobile, vi basterà cliccare sull'icona "..." e successivamente cliccare il pulsante "Download"
 
 # Come accedere al file "Soluzioni"
